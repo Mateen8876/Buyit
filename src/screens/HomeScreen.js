@@ -10,7 +10,7 @@ import Brands from '../components/Brands';
 
 const HomeScreen = () => {
   return (
-    <View style={styles.container}>
+    <View style={styles.containers}>
       <ScrollView showsVerticalScrollIndicator={false}>
         <Header />
         <SubHeader />
